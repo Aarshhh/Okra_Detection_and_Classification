@@ -1,2 +1,3 @@
 # Okra_Ripeness_Classification
-Building a custom CNN architecture for multi-label okra image classification to determine the maturity of the okra plant.
+- Utilizing YOLOv5 Pytorch model for the detection of Okra.
+- Building a OkraNet architecture for multi-label okra classification to determine the maturity of the okra fruit on its detection. 
